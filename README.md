@@ -41,4 +41,4 @@ A Python script to fetch real-time weather information for any city using the Op
 This project is licensed under the MIT License.
 
 ## Author
-[Kunal Masurkar](https://github.com/kunal-masurkar)
+🌐 [GitHub - Kunal](https://github.com/kunal-masurkar) | 👉 [LinkedIn - Kunal](https://linkedin.com/in/kunal-masurkar-8494a123a)
